@@ -1,5 +1,7 @@
 # Flowers Classification with ResNet18
 
+<img src="https://github.com/Yaroslav-Maloshuk/kaggle_flowers_classification/blob/main/kaggle_flowers_classification.png" width="1000" height="1000">
+
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)
 ![torchvision](https://img.shields.io/badge/torchvision-models-EE4C2C?logo=pytorch&logoColor=white)
